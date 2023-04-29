@@ -29,6 +29,7 @@ Example response:
 - Django
 - Requests
 - BeautifulSoup
+- gunicorn
 
 ### Installation
 
