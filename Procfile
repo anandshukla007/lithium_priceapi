@@ -1,0 +1,1 @@
+web: gunicorn lithium_priceapi.wsgi --log-file -
